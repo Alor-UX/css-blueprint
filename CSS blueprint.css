@@ -1,0 +1,27 @@
+/* Header Goes Here  */
+
+/* Homepage Goes Here */
+
+/* Page 2 */
+
+/* Page 3 */
+
+/* Footer Goes Here  */
+
+/* Max width 1024px (Large tablets and smaller) */
+@media (max-width: 1024px) {
+}
+
+/* Max width 768px (Tablets and smaller) */
+@media (max-width: 768px) {
+}
+
+/* Max width 425px (Large phones) */
+@media (max-width: 425px) {
+}
+
+/* Max width 320px (Small phones) */
+@media (max-width: 320px) {
+}
+
+/* Dont Put CSS codes below this comment */
